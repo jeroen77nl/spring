@@ -1,3 +1,9 @@
+### General info
+Producing a SOAP web service.
+https://spring.io/guides/gs/producing-web-service/
+
+Spring boot 3.0.6
+
 ### Build an executable JAR
 You can build a single executable JAR file that contains all the necessary dependencies,
 classes, and resources and run that.
